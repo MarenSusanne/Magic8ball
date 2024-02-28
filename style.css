@@ -1,0 +1,31 @@
+#ball{
+    border: 2px solid;
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+#answer{
+    border: 1px solid;
+    height: 40px;
+    width: 280px;
+    border-radius: 10px;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    margin: 10px 0px 0px 0px;
+}
+body{
+    background-color: rgb(95, 36, 150);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
